@@ -1,0 +1,14 @@
+# What is the Sinleton Pattern?
+- The Singleton Pattern is a creational design pattern that ensures a class has only one
+  instance and provides a global point of access to that instance. This is useful in scenarios
+  where exactly one object is needed to coordinate actions across the system.
+
+# Where Do We Need the Singleton Pattern?
+- The Singleton Pattern is used when:
+  1. Resource Management: You need a centralized point of control for a
+     shared resource, like a database connection or a configuration manager.
+  2. Global State: A single instance is required to represent a global state, 
+     like a logging service or a cache.
+  3. Coordination: One instance is necessary to coordinate actions across 
+     various parts of the system, ensuring consistency and avoiding conflicts.
+  
