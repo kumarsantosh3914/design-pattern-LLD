@@ -1,0 +1,7 @@
+Factory: 
+ - Encapsulate creational process
+ - Similar Object creations
+ - Hiding complexity from client
+
+Factory Method:
+ - Delegate creation to subclasses

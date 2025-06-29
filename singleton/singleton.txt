@@ -12,3 +12,7 @@
   3. Coordination: One instance is necessary to coordinate actions across 
      various parts of the system, ensuring consistency and avoiding conflicts.
   
+# Singleton:
+  - One instance of class
+  - private constructor
+  - static instance (for duble checked locking)
